@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Claude Code local (per-user) settings
+.claude/settings.local.json
+
+# Environment / secrets
+.env
+.env.*
+
+.mcp.json
